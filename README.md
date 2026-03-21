@@ -1,3 +1,6 @@
+# 💫 About Me:
+🔭 I'm currently working on :   Co-building HexaCore Classes (hexacoreclasses.in) & hunting web vulnerabilities 🔍<br><br>🌱 I'm currently learning:  Breaking things to secure them 🛡️ — Java | Spring Boot | Security | AI<br><br>👯 I'm looking to collaborate on:   If it involves Java, Security, or AI — I'm in. Let's build something dangerous 💀<br><br>🤝 I'm looking for help with:  Anyone who thinks like a hacker but codes like an engineer. 🤝<br><br>💬 Ask me about:  How I co-built a real platform, broke into cybersecurity & still grind daily ⚡<br><br>😄 Pronouns: lazy hacker 15<br><br>⚡ Fun fact:  Already shipped a real product. Still hungry for more. Just getting started 😈<br> 
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61580193000484) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__yash__deshmukh___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-dalvee-b9447b386) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theyashdeshmukh15@gmail.com) 
