@@ -11,7 +11,7 @@ Email Me 👉 📧 [theyashdeshmukh15@gmail.com](mailto:theyashdeshmukh15@gmail.
 
 # 💻 Tech Stack:
 
-<p align="center" style="white-space: nowrap; overflow-x: auto;">
+<p align="left" style="white-space: nowrap; overflow-x: auto;">
 <a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" /></a>
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" /></a>
 <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" /></a>
