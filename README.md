@@ -11,7 +11,7 @@ Email Me 👉 📧 [theyashdeshmukh15@gmail.com](mailto:theyashdeshmukh15@gmail.
 
 # 💻 Tech Stack:
 
-<p align="center">
+<p align="center" style="white-space: nowrap; overflow-x: auto;">
 <a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" /></a>
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" /></a>
 <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" /></a>
@@ -20,9 +20,6 @@ Email Me 👉 📧 [theyashdeshmukh15@gmail.com](mailto:theyashdeshmukh15@gmail.
 <a href="https://spring.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" /></a>
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" /></a>
-</p>
-
-<p align="center">
 <a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" /></a>
 <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" /></a>
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" /></a>
